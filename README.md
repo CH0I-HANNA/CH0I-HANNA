@@ -8,6 +8,15 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Thank%20You!&section=footer&reversal=true&descAlign=65&descAlignY=12&animation=fadeIn&desc=adfsdfff&descSize=8&fontAlignY=67&fontColor=000000)
 
+## :star2:link
+[velog](https://velog.io/@boo188/posts)
+
+## :fire:project 
+1. ~
+2. ~
+3. ~
+
+
 
 
 
